@@ -2,7 +2,6 @@
 
 Welcome to my cybersecurity lab repository. This repository contains detailed technical vulnerability assessment reports and penetration testing write-ups created during my training at **NTI Cyber Academy** and independent security research.
 
----
 
 ## 📁 Practical Lab Reports
 
@@ -14,14 +13,13 @@ Welcome to my cybersecurity lab repository. This repository contains detailed te
 ### 2. 🧃 OWASP Juice Shop
 * **Scope:** Modern Web Application & API Security Testing.
 * **Vulnerabilities Tested:** OWASP Top 10, Broken Authentication, Broken Access Control, and Security Misconfigurations.
-* **Document:** 📄 [View OWASP Juice Shop Report]
+* **Document:**  OWASP juice shop
 
 ### 3. 🎯 Metasploitable 2
 * **Scope:** Network Penetration Testing & System Security.
 * **Focus Areas:** Network Reconnaissance, Service Enumeration, Port Scanning, System Exploitation, and Privilege Escalation.
 * **Document:** 📄 [View Metasploitable 2 Report]
 
----
 
 ## 🧰 Tools & Technologies Used
 * **Web Security Assessment:** Burp Suite, OWASP ZAP.
@@ -29,7 +27,6 @@ Welcome to my cybersecurity lab repository. This repository contains detailed te
 * **Exploitation:** Metasploit Framework.
 * **Environments & OS:** Kali Linux, VirtualBox.
 
----
 
 ## 📝 Technical Report Structure
 All reports follow a structured documentation methodology including:
