@@ -18,7 +18,7 @@ Welcome to my cybersecurity lab repository. This repository contains detailed te
 ### 3. 🎯 Metasploitable 2
 * **Scope:** Network Penetration Testing & System Security.
 * **Focus Areas:** Network Reconnaissance, Service Enumeration, Port Scanning, System Exploitation, and Privilege Escalation.
-* **Document:** 📄 [View Metasploitable 2 Report]
+* **Document:** Metasploitable 2/report by seif.pdf
 
 
 ## 🧰 Tools & Technologies Used
