@@ -8,7 +8,7 @@ Welcome to my cybersecurity lab repository. This repository contains detailed te
 ### 1. 🌐 DVWA (Damn Vulnerable Web Application)
 * **Scope:** Web Application Security & OWASP Top 10 Assessment.
 * **Vulnerabilities Tested:** Cross-Site Scripting (XSS), SQL Injection (SQLi), Command Injection, File Inclusion, Broken Access Control, and API Security.
-* **Document:** 📄 [View DVWA Lab Report]
+* **Document:** View DVWA Lab 
 
 ### 2. 🧃 OWASP Juice Shop
 * **Scope:** Modern Web Application & API Security Testing.
@@ -18,7 +18,7 @@ Welcome to my cybersecurity lab repository. This repository contains detailed te
 ### 3. 🎯 Metasploitable 2
 * **Scope:** Network Penetration Testing & System Security.
 * **Focus Areas:** Network Reconnaissance, Service Enumeration, Port Scanning, System Exploitation, and Privilege Escalation.
-* **Document:** Metasploitable 2/report by seif.pdf
+* **Document:** Metasploitable 2/report-by-seif.pdf
 
 
 ## 🧰 Tools & Technologies Used
