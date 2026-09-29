@@ -13,7 +13,7 @@ Welcome to my cybersecurity lab repository. This repository contains detailed te
 ### 2.  OWASP Juice Shop
 * **Scope:** Modern Web Application & API Security Testing.
 * **Vulnerabilities Tested:** OWASP Top 10, Broken Authentication, Broken Access Control, and Security Misconfigurations.
-* **Document:**  OWASP juice shop
+* **Document:**   juice shop
 
 ### 3.  Metasploitable 2
 * **Scope:** Network Penetration Testing & System Security.
