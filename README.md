@@ -86,8 +86,6 @@ Penetration-Testing-Reports/
 | Introduction to Cybersecurity | Cisco | [into-to-cybersecurtiy-cisco.pdf](./certifcations/into-to-cybersecurtiy-cisco.pdf) |
 | Penetration Testing & AppSec | NTI Cyber Academy | [nti-cyber-academy-pentset-appsec.pdf.png](./certifcations/nti-cyber-academy-pentset-appsec.pdf.png) |
 
-> 💡 Tip: Rename folder `certifcations` → `certifications` to fix the typo. GitHub: `git mv certifcations certifications`
-
 ---
 
 ## 🛠️ Tools & Technologies
